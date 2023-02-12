@@ -18,5 +18,5 @@ I have created a GitHub repository for my work, because I am not allowed to subm
 
 I have Created a GitHub repository
 Using npm init, I started a new node project, I also Create a web server, then Created a route in my server that will return the name of someone I know.
-If requested through the browser, I should see this data on the screen.
+If requested through the browser, I should see this data on the screen. I will welcome any suggestions.
 
